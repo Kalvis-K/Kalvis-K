@@ -9,7 +9,9 @@ I'm Kalvis, a passionate developer with expertise in several programming languag
 [<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=white" alt="JavaScript" height="28">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [<img src="https://img.shields.io/badge/-Git-F05032?logo=git&style=for-the-badge&logoColor=white" alt="Git" height="28">](https://git-scm.com/) 
 
+## Get in Touch
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/Kalvis-K/) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:kalvis.kaulins@gmail.com)
 
 
 <!--
