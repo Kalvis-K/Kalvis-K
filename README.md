@@ -9,7 +9,7 @@ I'm Kalvis, a passionate developer with expertise in several programming languag
 [<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=white" alt="JavaScript" height="28">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [<img src="https://img.shields.io/badge/-Git-F05032?logo=git&style=for-the-badge&logoColor=white" alt="Git" height="28">](https://git-scm.com/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalvis-K&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalvis-K&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalvis-K&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
