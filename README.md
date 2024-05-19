@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, welcome to My GitHub Page!
 
 I'm Kalvis, a passionate developer with expertise in several programming languages and technologies, including:
-[<img src="https://img.shields.io/badge/-C%23-239120?logo=java&style=for-the-badge&logoColor=white" alt="JAVA" height="28">](https://www.java.com/en/download/help/whatis_java.html) 
+[<img src="http://www.w3.org/2000/svg" alt="JAVA" height="28">](https://www.java.com/en/download/help/whatis_java.html) 
 
 
 
