@@ -1,7 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, welcome to My GitHub Page!
 
 I'm Kalvis, a passionate developer with expertise in several programming languages and technologies, including:
-[![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+
+[![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/download/help/whatis_java.html)
 
 
 
