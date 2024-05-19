@@ -11,7 +11,7 @@ I'm Kalvis, a passionate developer with expertise in several programming languag
 
 ## Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/Kalvis-K/) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:kalvis.kaulins@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/kalvis-kaulins/) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:kalvis.kaulins@gmail.com)
 
 
 <!--
